@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, Bem vindo ao meu perfil GitHub 👋 
+## Me chamo Luiz Brandão !
 
-<!--
-**LuizhBrandao/LuizhBrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estou Aprendendo
 
-Here are some ideas to get you started:
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas e Tecnologias
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
+
+## Contatos:
+
+<div>
+
+<a href="https://www.linkedin.com/in/luiz-henrique-oliveira-brandão" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div>
+<a href="https://github.com/LuizhBrandao">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizhBrandao&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizhBrandao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/LuizhBrandao/LuizhBrandao/blob/output/github-contribution-grid-snake.svg)
