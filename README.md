@@ -21,5 +21,3 @@
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizhBrandao&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizhBrandao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/LuizhBrandao/LuizhBrandao/blob/output/github-contribution-grid-snake.svg)
