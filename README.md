@@ -2,13 +2,9 @@
 ## Me chamo Luiz Brandão !
 Estudante entusiasmado com conhecimentos em Java e Engenharia da Qualidade de Software, buscando oportunidades para aplicar e aprimorar habilidades nessas áreas. Comprometido em aprender novos conceitos e trabalhar em equipe para resolver problemas de forma eficiente. Buscando oportunidades para desenvolver uma carreira na área de desenvolvimento e qualidade de software.
 
-## Estou Aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
 
-## Ferramentas e Tecnologias
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>  
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="39" height="39"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="39" height="39"/>  
 
 ## Contatos:
 
