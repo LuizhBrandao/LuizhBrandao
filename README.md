@@ -1,5 +1,6 @@
 # Olá, Bem vindo ao meu perfil GitHub 👋 
 ## Me chamo Luiz Brandão !
+Estudante entusiasmado com conhecimentos em Java e Engenharia da Qualidade de Software, buscando oportunidades para aplicar e aprimorar habilidades nessas áreas. Comprometido em aprender novos conceitos e trabalhar em equipe para resolver problemas de forma eficiente. Buscando oportunidades para desenvolver uma carreira na área de desenvolvimento e qualidade de software.
 
 ## Estou Aprendendo
 
