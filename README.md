@@ -14,7 +14,7 @@ Estudante entusiasmado com conhecimentos em Java e Engenharia da Qualidade de So
 
 ### Meus Principais Desafios de Projeto
 [![Repo DS List ](https://github-readme-stats.vercel.app/api/pin/?username=LuizhBrandao&repo=dslistJavaSpring&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/LuizhBrandao/dslistJavaSpring)
-[![Repo VollMED ](https://github-readme-stats.vercel.app/api/pin/?username=LuizhBrandao&repo=Spring-Boot-Java&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/LuizhBrandao/Spring-Boot-JAVA)
+[![Repo VollMED ](https://github-readme-stats.vercel.app/api/pin/?username=LuizhBrandao&repo=VollMed-SpringBoot-Java&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/LuizhBrandao/VollMed-SpringBoot-Java)
        
 </div>
 <img src="https://github.com/luizhbrandao/luizhbrandao/blob/output/github-contribution-grid-snake-dark.svg" />
