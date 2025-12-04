@@ -14,10 +14,5 @@ Estudante entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenharia da
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20%20DIO-000?style=for-the-badge)](https://www.dio.me/users/luiz_brandao)
 [![Perfil Alura](https://img.shields.io/badge/-Meu%20Perfil%20%20Alura-000?style=for-the-badge)](https://cursos.alura.com.br/user/luiz-brandao)
 
-### Meus Principais Desafios de Projeto
-[![Repo DsList ](https://github-readme-stats.vercel.app/api/pin/?username=LuizhBrandao&repo=Dslist-Java-Spring&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/LuizhBrandao/Dslist-Java-Spring)
-[![Repo VollMED ](https://github-readme-stats.vercel.app/api/pin/?username=LuizhBrandao&repo=VollMed-SpringBoot-Java&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/LuizhBrandao/VollMed-SpringBoot-Java)
-[![Repo DsList ](https://github-readme-stats.vercel.app/api/pin/?username=LuizhBrandao&repo=cacambastore&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/LuizhBrandao/cacambastore)
-       
 </div>
 <img src="https://github.com/luizhbrandao/luizhbrandao/blob/output/github-contribution-grid-snake-dark.svg" />
