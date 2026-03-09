@@ -11,7 +11,6 @@ Estudante entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenharia da
            
 ## Contatos:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luiz-henrique-oliveira-brand%C3%A3o/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20%20DIO-000?style=for-the-badge)](https://web.dio.me/users/luiz_brandao)
 [![Perfil Alura](https://img.shields.io/badge/-Meu%20Perfil%20%20Alura-000?style=for-the-badge)](https://cursos.alura.com.br/user/luiz-brandao)
 
 </div>
