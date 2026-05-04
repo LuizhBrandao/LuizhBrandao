@@ -3,10 +3,19 @@
 ### Cursando Pós Graduação em Arquitetura de Sistemas .NET com Azure na FIAP
 Estudante entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenharia da Qualidade de Software, buscando oportunidades para aplicar e aprimorar habilidades nessas áreas. Comprometido em aprender novos conceitos e trabalhar em equipe para resolver problemas de forma eficiente. Buscando oportunidades para desenvolver uma carreira na área de desenvolvimento e qualidade de software.
 ## Linguagens Tecnologias Habilidades
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="51" height="51"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="51" height="51" />
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="51" height="51" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="51" height="51" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="51" height="51" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="51" height="51" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="51" height="51"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="51" height="51" />
+
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="51" height="51" alt="Java"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="51" height="51" alt="IntelliJ"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="51" height="51" alt="Spring"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="51" height="51" alt="C#"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="51" height="51" alt="Visual Studio"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="51" height="51" alt=".NET Core"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="51" height="51" alt="Git"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="51" height="51" alt="Azure"/></td>
+  </tr>
+</table>
              
            
 ## Contatos:
