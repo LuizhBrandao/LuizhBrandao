@@ -1,7 +1,7 @@
-# Olá, Bem vindo ao meu perfil GitHub 👋 
-## Me chamo Luiz Brandão !
-### Cursando Pós Graduação em Arquitetura de Sistemas .NET com Azure na FIAP
-Estudante entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenharia da Qualidade de Software, buscando oportunidades para aplicar e aprimorar habilidades nessas áreas. Comprometido em aprender novos conceitos e trabalhar em equipe para resolver problemas de forma eficiente. Buscando oportunidades para desenvolver uma carreira na área de desenvolvimento e qualidade de software.
+# Olá, Me chamo Luiz Brandão. Bem vindo ao meu perfil do GitHub 👋 
+## Cursando Pós Graduação em Arquitetura de Sistemas .NET com Azure – FIAP 
+## Pós-Graduado em Engenharia da Qualidade de Software – SENAC  
+Desenvolvedor entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenharia da Qualidade de Software, buscando oportunidades para aplicar e aprimorar habilidades nessas áreas. Comprometido em aprender novos conceitos e trabalhar em equipe para resolver problemas de forma eficiente. Buscando oportunidades para desenvolver uma carreira na área de desenvolvimento e qualidade de software.
 ## Linguagens Tecnologias Habilidades
 
 <table>
@@ -20,4 +20,3 @@ Estudante entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenharia da
            
 ## Contatos:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/luiz-henrique-oliveira-brandao/)
-[![Perfil Alura](https://img.shields.io/badge/-Meu%20Perfil%20%20Alura-000?style=for-the-badge)](https://cursos.alura.com.br/user/luiz-brandao)
