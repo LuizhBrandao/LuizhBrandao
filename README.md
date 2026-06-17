@@ -16,12 +16,13 @@ Desenvolvedor entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenhari
 ![xUnit](https://img.shields.io/badge/xUnit_Testing-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ###  Java Ecosystem
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Jakarta Validation](https://img.shields.io/badge/Jakarta_Validation-EE0000?style=for-the-badge&logo=jakartaee&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logoColor=white)
 
 ###  Database & Messaging
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -30,6 +31,9 @@ Desenvolvedor entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenhari
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ###  Architecture & APIs
+![POO](https://img.shields.io/badge/POO-Orientação_a_Objetos-8A2BE2?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-Princípios-4682B4?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-Strategy-2E8B57?style=for-the-badge)
 ![DDD](https://img.shields.io/badge/DDD_Architecture-007ACC?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS_Pattern-007ACC?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/Event_Driven-007ACC?style=for-the-badge)
@@ -38,7 +42,11 @@ Desenvolvedor entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenhari
 
 ###  Tools & Front-End
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### GitHub Stats
