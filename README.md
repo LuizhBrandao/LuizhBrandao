@@ -1,7 +1,13 @@
-# Olá, Me chamo Luiz Brandão. Bem vindo ao meu perfil do GitHub 👋 
-## Cursando Pós Graduação em Arquitetura de Sistemas .NET com Azure – FIAP 
-## Pós-Graduado em Engenharia da Qualidade de Software – SENAC  
-Desenvolvedor entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenharia da Qualidade de Software, buscando oportunidades para aplicar e aprimorar habilidades nessas áreas. Comprometido em aprender novos conceitos e trabalhar em equipe para resolver problemas de forma eficiente. Buscando oportunidades para desenvolver uma carreira na área de desenvolvimento e qualidade de software.
+# Olá, Me chamo Luiz Brandão. 
+Desenvolvedor entusiasmado com conhecimentos em Java, C# .NET, Azure e Engenharia da Qualidade de Software, buscando oportunidades para aplicar e aprimorar habilidades nessas áreas. Comprometido em aprender novos conceitos e trabalhar em equipe para resolver problemas de forma eficiente. Buscando oportunidades para aprimorar minha carreira na área de desenvolvimento e qualidade de software.
+
+## Formação 
+Pós-Graduação lato sensu Arquitetura de Sistemas .NET com Azure – FIAP Conclusão: Junho de 2026 
+
+Pós-Graduação lato sensu Engenharia da Qualidade de Software – Centro Universitário SENAC Conclusão: Junho de 2023 
+
+Bacharel Engenharia Eletrônica – Faculdade Anhanguera de São Bernardo Conclusão: Dezembro de 2016  
+
 
 ## Linguagens Tecnologias Habilidades
 
