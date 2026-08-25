@@ -12,19 +12,22 @@ Bacharel Engenharia Eletrônica – Faculdade Anhanguera de São Bernardo Conclu
 ## Linguagens Tecnologias Habilidades
 
 ###  .NET Ecosystem
-C# – .Net – Blazor – MudBlazor – Ef Core – Dapper – Signalr – Xunit Testing
+C# – .NET – ASP.NET Core – Minimal APIs – .NET Aspire – Blazor – MudBlazor – EF Core – Dapper – SignalR – Worker Services – xUnit
 
 ###  Java Ecosystem
-Java – Spring Boot – Spring Data Jpa – Hibernate – Maven – Jakarta Validation - Junit 
+Java – Spring Boot – Spring Data JPA – Spring Security – JWT (JSON Web Token) – Hibernate – Maven – Jakarta Validation – JPA Specifications – JUnit
 
-###  Database & Messaging
-SQL Sever – SQLite – H2 Database – Rabbitmq 
+###  Python & Data Engineering
+Python – PySpark – Apache Airflow – Pandas – Google BigQuery – Pipelines ETL/ELT – Arquitetura Medalhão (Bronze/Silver/Gold) – IA Agents – Pytest
 
-###  Architecture & APIs
-POO Programação Orientada a Objetos – Princípios SOLID – Design Patterns Strategy – DDD Architecture – CQRS Pattern – Event Driven  
+###  Database, Messaging & Cloud
+SQL Server – Google BigQuery – SQLite – H2 Database – RabbitMQ – GCP (Google Cloud Platform) – Azure
 
-###  Tools & Front-End
-Visual Studio – IntelliJ – Docker – Git – Github – Swagger UI – Spring Doc OpenAPI – Markdown – Html – Css – Bootstrap 
+###  Architecture & Best Practices
+POO (Programação Orientada a Objetos) – Princípios SOLID – Design Patterns (Strategy, Factory, etc.) – Clean Architecture – Arquitetura Hexagonal – DDD (Domain-Driven Design: Aggregates, Value Objects, Domain Events, ACL) – CQRS Pattern – Event-Driven Architecture – Observabilidade (OpenTelemetry, Health Checks)
+
+###  Tools & DevOps
+Visual Studio – IntelliJ IDEA – VS Code – Docker – Docker Compose – Git – GitHub – Swagger UI / SpringDoc OpenAPI – Markdown – HTML5 – CSS3 – Bootstrap 
 
 ### GitHub Stats
 
