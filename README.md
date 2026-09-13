@@ -12,16 +12,12 @@ Bacharel Engenharia Eletrônica – Faculdade Anhanguera de São Bernardo Conclu
 ## Linguagens Tecnologias Habilidades
 
 ###  .NET Ecosystem
-C# – .NET – ASP.NET Core – Minimal APIs – .NET Aspire – Blazor – MudBlazor – EF Core – Dapper – SignalR – Worker Services – xUnit
 
 ###  Java Ecosystem
-Java – Spring Boot – Spring Data JPA – Spring Security – JWT (JSON Web Token) – Hibernate – Maven – Jakarta Validation – JPA Specifications – JUnit
 
 ###  Python & Data Engineering
-Python – PySpark – Apache Airflow – Pandas – Google BigQuery – Pipelines ETL/ELT – Arquitetura Medalhão (Bronze/Silver/Gold) – IA Agents – Pytest
 
 ###  Database, Messaging & Cloud
-SQL Server – Google BigQuery – SQLite – H2 Database – RabbitMQ – GCP (Google Cloud Platform) – Azure
 
 ###  Architecture & Best Practices
 POO (Programação Orientada a Objetos) – Princípios SOLID – Design Patterns (Strategy, Factory, etc.) – Clean Architecture – Arquitetura Hexagonal – DDD (Domain-Driven Design: Aggregates, Value Objects, Domain Events, ACL) – CQRS Pattern – Event-Driven Architecture – Observabilidade (OpenTelemetry, Health Checks)
