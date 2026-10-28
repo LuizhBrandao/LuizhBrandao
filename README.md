@@ -9,21 +9,28 @@ Pós-Graduação lato sensu Engenharia da Qualidade de Software – Centro Unive
 Bacharel Engenharia Eletrônica – Faculdade Anhanguera de São Bernardo Conclusão: Dezembro de 2016  
 
 
-## Linguagens Tecnologias Habilidades
+## Habilidades Técnicas
 
-###  .NET Ecosystem
+###  Linguagens: 
+C# (.NET 10), Java (21), JavaScript/TypeScript, SQL, Python, HTML5/CSS3.
 
-###  Java Ecosystem
+###  Backend:
+ASP.NET Core (REST APIs, MVC), Node.js, .NET Aspire, Entity Framework Core, Dapper, Spring Boot.
 
-###  Python & Data Engineering
+###  Frontend & Mobile:
+Angular, Blazor, MudBlazor, .NET MAUI, ASP.NET MVC/Razor.
 
-###  Database, Messaging & Cloud
+###  Bancos de Dados & Cache:
+SQL Server, PostgreSQL, SQLite, Redis.
 
-###  Architecture & Best Practices
-POO (Programação Orientada a Objetos) – Princípios SOLID – Design Patterns (Strategy, Factory, etc.) – Clean Architecture – Arquitetura Hexagonal – DDD (Domain-Driven Design: Aggregates, Value Objects, Domain Events, ACL) – CQRS Pattern – Event-Driven Architecture – Observabilidade (OpenTelemetry, Health Checks)
+###  Cloud, Dados & DevOps:
+Microsoft Azure, GCP (BigQuery), Docker, Git/GitHub, Apache Airflow.
 
-###  Tools & DevOps
-Visual Studio – IntelliJ IDEA – VS Code – Docker – Docker Compose – Git – GitHub – Swagger UI / SpringDoc OpenAPI – Markdown – HTML5 – CSS3 – Bootstrap 
+###  Testes & Qualidade:
+xUnit, JUnit 5, Playwright (E2E), Postman.
+
+###  Arquitetura & Padrões:
+MVC, Arquitetura Hexagonal, Clean Architecture, DDD, SOLID, Design Patterns. 
 
 ### GitHub Stats
 
